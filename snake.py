@@ -4,6 +4,5 @@ for i in range(3, 5):
         print("3")
     else:
         print(x)
-
 while x == 3:
     print(x)
