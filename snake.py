@@ -5,5 +5,5 @@ for i in range(3, 5):
     else:
         print(x)
 
-while x == 4:
+while x == 3:
     print(x)
